@@ -1,1 +1,42 @@
 /*  your css code here. If applicable */
+
+#card{
+    /* border: 5px solid; */
+    margin: auto;
+    width: 50%;
+	text-align : centre;
+	background-color : #fff1f0;
+	padding : 10px;
+	box-shadow :0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);;
+}
+
+button{
+	padding : 10px;
+	background-color: #fc5956;
+	color : white;
+	height : 45px;
+	width : 100px;
+	border-radius: 10px;
+}
+
+img{
+	height: 25%;
+	width : 90%;
+}
+
+h1, p{
+   padding-left : 10px;
+   padding-right : 10px;
+}
+
+/* #para{
+	text-align : 
+} */
+
+#paradiv{
+	text-align: center;
+/* 	border: 3px solid green; */
+}
+
+#center {
+}
